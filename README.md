@@ -1,13 +1,13 @@
 # Autocar Servicio Automotriz 🚗✨
 
-<img src="img/autocar-biolink.png" alt="Autocar Servicio Automotriz - Resultado Final" width="40%">
+<img src="img/autocar-biolink.png" alt="Autocar Servicio Automotriz - Resultado Final" width="35%">
 
 ## Descripción
 Bienvenido a **Autocar Servicio Automotriz**, un proyecto web diseñado para resaltar los servicios de estética y equipamiento vehicular. Este sitio presenta un diseño atractivo y minimalista, acompañado de efectos visuales dinámicos como un brillo que atraviesa la pantalla y botones interactivos para redes sociales y correo.
 
 ## Funcionalidades
-- 📧 **Correo directo**: Un enlace que abre el cliente de correo con la dirección `atencionalcliente@autocarautomotriz.com`.
-- 🌟 **Efecto brillante**: Un sutil efecto visual que simula un brillo cruzando la pantalla cada 5 segundos.
+- 📧 **Correo directo**: Un enlace que abre el cliente de correo con la dirección.
+- 🌟 **Efecto brillante**: Un sutil efecto visual que simula un brillo cruzando la pantalla cada 4 segundos.
 - 📱 **Botones de redes sociales**: Acceso rápido a WhatsApp, Facebook y TikTok.
 - 🖼️ **Diseño responsivo**: Se adapta perfectamente a dispositivos móviles y de escritorio.
 
@@ -20,4 +20,4 @@ Bienvenido a **Autocar Servicio Automotriz**, un proyecto web diseñado para res
 ## Instalación y Uso
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/autocar-servicio-automotriz.git
+   git clone https://github.com/BrandoPinto/autocar-biolink.git
